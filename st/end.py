@@ -1,0 +1,1 @@
+a=["You suddenly wake up in sweat, admiring the horrors of your dream. The empty text editor is still on your screen, and the idea of making a story with your oniric experiences is now clear on your head. You reach for the keyboard and start typing.\n\nEnd"]
