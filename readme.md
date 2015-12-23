@@ -36,3 +36,9 @@ To finish your current game, simply press `enter` or issue a `KeyboardInterrupt`
 ## Sharing adventures
 
 You can share adventures forking this repository and adding a branch with your story files in the `st` folder. I'll accept any PR that has a working story with a minimum of quality.
+
+## TO-DO:
+
+* Load/Save features
+* Exception catching
+* Interactive adventure creator
