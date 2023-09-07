@@ -1,9 +1,9 @@
 import os
-for i in os.listdir('./st')[1:]:exec('from st import '+i[:-3])
+for i in os.listdir('./st'):exec('from st import '+i[:-3])
 cr=c1.a
 c=0
 while 1:
- os.system('clear')
+ os.system('cls')
  if c:print pr[c][1]
  print cr[0],"".join([i[0] for i in cr[1:]]) 
  c=input()
