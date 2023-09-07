@@ -2,7 +2,7 @@
 
 Minimal framework for "Choose your own adventure" games.  
 
-Current size: 256 bytes
+Current size: 256 bytes (linux), 249 bytes (windows)
 
 ## Creating an adventure
 
