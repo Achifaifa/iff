@@ -28,6 +28,13 @@ To write the ending of the game, simply create a chapter with a single option ca
 
 If unicode characters (N, Ä, é, etc) are not being displayed correctly in the windows CLI, run `chcp 65001` 
 
+## Choosing an adventure
+
+Copy the contents of the adventure folder to `st`. Currently available adventures are:
+
+ * `st-demo` [EN] very short proof of concept story.
+ * `st-NLP4` [ES] Short adventure for the NLP4 game compo
+
 ## Playing an adventure
 
 * Start the game with `python main.py`
