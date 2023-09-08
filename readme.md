@@ -22,7 +22,11 @@ Each choice has the following elements:
 
 The engine will process all the chapters in the `st` folder, so writing your story there will be enough to make it work (As long as you don't have missing fragments or chapters).  
 
-To write the ending of the game, simply create a chapter with a single option called "The End" or something similar.   
+To write the ending of the game, simply create a chapter with a single option called "The End" or something similar.  
+
+## Unicode workaround in windows
+
+If unicode characters (N, Ä, é, etc) are not being displayed correctly in the windows CLI, run `chcp 65001` 
 
 ## Playing an adventure
 
